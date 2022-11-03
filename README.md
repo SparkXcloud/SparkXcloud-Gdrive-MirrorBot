@@ -1,4 +1,4 @@
-![SparkXcloud](https://github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot/raw/master/assets/banner.png)
+![SparkXcloud](https://github.com/SparkXcloud/SparkXcloud-Gdrive-MirrorBot/raw/master/assets/banner.png)
 
 # SparkXcloud-Gdrive-MirrorBot/LeechBot v2.0
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://ko-fi.com/harshhaareddy)
@@ -10,7 +10,7 @@
 
 # Features:
 
-## By [Sparkxcloud](https://github.com/Spark-X-Cloud)
+## By [Sparkxcloud](https://github.com/SparkXcloud)
 -----
 ### ➡️ Spark-x-cloud mirrorbot main features :-
 
